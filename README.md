@@ -1,4 +1,4 @@
-# **_PPI_Prediction_Maize_**
+# **PPI_Prediction_Maize**
 
 ## Dataset Description
 * Plant Name: Zea mays (Maize)
