@@ -9,4 +9,4 @@
 ## Script Description
 * ***merge_batches.py*** script merges the batch files.
 * ***remove_UniProt.py*** script removes the 'UniProt' text from the UniProt identifier of each protein.
-* ***replace_tick.py*** script replaces the tick mark (&#10004;) with '1'
+* ***replace_tick.py*** script replaces the tick mark (&#10004;) with '1'.
