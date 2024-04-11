@@ -1,6 +1,6 @@
 # **PPI_Prediction_Maize**
 
-## Dataset Description
+## <u>Dataset Description</u>
 * Plant Name: Zea mays (Maize)
 * Dataset Size: 50,983 &times; 5
 * Online Repository: IntAct
