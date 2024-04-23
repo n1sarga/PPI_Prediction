@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-directory = 'input_location'
+directory = 'D:\\Profiles\\Nisarga Mridha\\Study\\CSE400A\\Datasets\\Maize\\Positive_Negative_Interactions'
 
 dfs = []
 
@@ -15,4 +15,4 @@ merged_df = pd.concat(dfs, ignore_index=True)
 
 merged_df.drop_duplicates(inplace=True)
 
-merged_df.to_csv('output_location', index=False)
+merged_df.to_csv('D:\\Profiles\\Nisarga Mridha\\Study\\CSE400A\\Datasets\\Maize\\Maize_All_Interactions.csv', index=False)
