@@ -19,5 +19,5 @@
 * ***replace_tick.py*** script replaces the tick mark (&#10004;).
 * ***merge_batches.py*** script merges the batch files.
 
-## Packages Used: 
-![pandas](https://img.shields.io/badge/Pandas-2.0.3-blue) ![numpy](https://img.shields.io/badge/Numpy-1.25.0-blue) ![scipy](https://img.shields.io/badge/Scipy-1.11.2-blue) ![biopython](https://img.shields.io/badge/Biopython-1.81-green) ![networkx](https://img.shields.io/badge/NetworkX-3.1-yellow) ![pyarrow](https://img.shields.io/badge/Pyarrow-13.0.0-blue)
+## Packages Used:
+![biopython](https://img.shields.io/badge/Biopython-1.81-green) ![networkx](https://img.shields.io/badge/NetworkX-3.1-yellow) ![pandas](https://img.shields.io/badge/Pandas-2.0.3-blue) ![numpy](https://img.shields.io/badge/Numpy-1.25.0-blue) ![scipy](https://img.shields.io/badge/Scipy-1.11.2-blue) ![pyarrow](https://img.shields.io/badge/Pyarrow-13.0.0-blue)
