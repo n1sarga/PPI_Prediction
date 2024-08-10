@@ -10,8 +10,8 @@
 ***[Important]***
 * ***seq.py*** script collects protein sequences against each UniProt Protein Identifier using ***UniProt REST-API***.
 * ***bipartite_graph.py*** script generates the non-interacting protein combination from positive interactions.
-* ***./Scripts/Pre-Process/PSSM.py*** generates the PSSM profiles against each protein sequence. ***PSSM Profiles*** in ***parquet*** format has been added in this location ***./Datasets/PSSM Profiles***.
-* ***./Scripts/Pre-Process/DST.py*** applies ***2D-DST*** to each PSSM profile. Updated PSSM Profiles has been added in this location ***./Datasets/DST_Applied***.
+* ***./Scripts/Pre-Process/PSSM.py*** generates the PSSM profiles against each protein sequence.
+* ***./Scripts/Pre-Process/DST.py*** applies ***2D-DST*** to each PSSM profile.
 
 ***[Less Important]***
 * ***split_dataset.py*** script splits the dataset into multiple batches.
